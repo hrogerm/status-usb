@@ -1,0 +1,13 @@
+{
+  "name": "TesteUSB",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon run.js"
+  },
+  "dependencies": {
+    "node-schedule": "^2.1.0",
+    "nodemon": "^2.0.16"
+  }
+}

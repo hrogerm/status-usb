@@ -1,0 +1,1 @@
+C:\Users\RogerMartins\Documents\TesteUSB\GetDevicesUSB.ps1
